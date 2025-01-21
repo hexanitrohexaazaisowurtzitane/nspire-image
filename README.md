@@ -7,9 +7,11 @@ My goal was to make it render an X*X image with AxA squares that could be easily
 <table>
 <tr>
 <td width="50%">
+60x60 (3px/sqr) Render
 <img src="https://github.com/user-attachments/assets/21ac26ef-afbb-4bc2-b298-5a191c6e6a41" alt="60x60 (3px/sqr) Render">
 </td>
 <td width="50%">
+Original Image
 <img src="https://github.com/user-attachments/assets/66c4ba82-e26c-4606-97b4-3d84dd7d6187" alt="Original Image">
 </table>
 
