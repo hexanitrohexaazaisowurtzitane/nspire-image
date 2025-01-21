@@ -18,6 +18,7 @@ Original Image
 # How does it work?
 The python script (used as example) takes in an image, resizes it to a square and lowers it down into the requested X*X pixels. Next the program converts the closes color match into a character from 0-9 or a-z
 This can additionally support more 26 colors (A-Z) but I didn't feel the need to implement that yet
+
 Example string given in tns file (60x60):
 ```
 String length: 4900
