@@ -7,7 +7,7 @@ My goal was to make it render an X*X image with AxA squares that could be easily
 <table>
 <tr>
 <td width="50%">
-60x60 (3px/sqr) Render
+70x70 (3px/sqr) Render
 <img src="https://github.com/user-attachments/assets/21ac26ef-afbb-4bc2-b298-5a191c6e6a41" alt="60x60 (3px/sqr) Render">
 </td>
 <td width="50%">
@@ -19,7 +19,7 @@ Original Image
 The python script (used as example) takes in an image, resizes it to a square and lowers it down into the requested X*X pixels. Next the program converts the closes color match into a character from 0-9 or a-z
 This can additionally support more 26 colors (A-Z) but I didn't feel the need to implement that yet
 
-Example string given in tns file (60x60):
+Example string given in tns file (70x70):
 ```
 String length: 4900
 Result string:
