@@ -2,7 +2,7 @@
 Basic 36 color image renderer for ti nspire API > 2.3
 I made this bcus I wanted to send image data through serial, but the Nspire's API only supports serial above 2.7 and the offical image renderer via string is only available up to 2.3
 My goal was to make it render an X*X image with AxA squares that could be easily sent via serial and parsed by the calc
-####This is only an early concept for my final nspire project, if that sounds interesting check my profile
+###This is only an early concept for my final nspire project, if that sounds interesting check my profile
 
 # Images
 <table>
